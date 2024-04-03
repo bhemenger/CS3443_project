@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTemplate</string>
+    <string name = "Guest">Login as Guest</string>
+    <string name = "Username">Username: </string>
+    <string name = "Password">Password: </string>
+    <string name = "Rem">Remember Me</string>
+</resources>
